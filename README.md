@@ -1,6 +1,6 @@
 
 <a href="https://github.com/randomanderson/randomanderson">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=randomanderson&show_icons=true&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=randomanderson&show_icons=true&theme=vue&hide_rank=true" />
 </a>
 
 <!--
